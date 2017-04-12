@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#336699</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Color for a section name -->
+    <color name="section">#336699</color>
+    <!-- Color for a title  -->
+    <color name="title">#212121</color>
+    <!-- Color for a date and time -->
+    <color name="date">#555555</color>
+
+</resources>
